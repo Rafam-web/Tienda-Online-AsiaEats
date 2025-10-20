@@ -1,2 +1,2 @@
 # Proyecto Tienda Online
-Proyecto de PHP y Javascript de una tienda online simple.
+Proyecto de PHP y Javascript de una tienda online simple como ejercicio en DAW.
